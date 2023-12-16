@@ -1,4 +1,4 @@
-<h1> MANIDHAR'S DEVOPS PROJECT CREATED NOTES</h1>
+<h1> MANIDHAR'S DEVOPS PROJECT (CREATED NOTES)</h1>
 <h2>Integrating Docker in CI/CD pipeline Completed</h2>
 <h3>Succesfully Developed automation build to docker container.(Happy)</h3>
 
