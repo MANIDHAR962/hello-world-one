@@ -1,7 +1,7 @@
 <h1> MANIDHAR'S DEVOPS PROJECT (CREATED NOTES)</h1>
 <h2>Integrating Docker in CI/CD pipeline Completed</h2>
 <h3>Succesfully Developed automation build to docker container.(Happy)</h3>
-
+<h5> Ansbile in progress</h5>
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
